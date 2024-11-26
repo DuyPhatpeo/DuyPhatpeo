@@ -44,21 +44,14 @@
 ---
 
 ## 🎯 Activities:
-<table style="width:100%;">
+<table style="width:100%; border-collapse: separate; border-spacing: 10px;">
   <tr>
-    <td>
+    <td style="width:50%; vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyPhatpeo&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=DuyPhatpeo&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="GitHub Stats" width="100%" />
+    </td>
+    <td style="width:50%; vertical-align: top;">
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Developer at work" width="100%" />
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Developer at work" width="100%" />
-</p>
