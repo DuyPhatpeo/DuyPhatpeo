@@ -44,10 +44,15 @@
 ---
 
 ## 🎯 Activities:
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyPhatpeo&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20Languages" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DuyPhatpeo&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="49%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyPhatpeo&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20Languages" alt="Top Languages" width="70%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DuyPhatpeo&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="70%" />
+
 </div>
+
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Developer at Work" width="70%" />
