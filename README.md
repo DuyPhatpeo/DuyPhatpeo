@@ -12,19 +12,19 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://www.facebook.com/DinoPeo2810" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/DinoPeo2810" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://github.com/DuyPhatpeo" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/DuyPhatpeo" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   </a>
-  <a href="https://www.youtube.com/@dinopeo2810" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/@dinopeo2810" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube"/>
   </a>
-  <a href="https://discord.gg/WpSaHUJJyB" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/WpSaHUJJyB" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/>
   </a>
-  <a href="mailto:phattranduy00@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:phattranduy00@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/>
   </a>
 </p>
