@@ -32,24 +32,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/officel/48/000000/react.png" alt="ReactJS"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-</p>
-
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
