@@ -1,54 +1,126 @@
-<!-- Avatar -->
+<!-- Header với Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tran%20Duy%20Phat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI/UX%20Enthusiast%20🇻🇳&descSize=16&descAlignY=51" width="100%"/>
+</div>
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://github.com/DuyPhatpeo.png" width="120" style="border-radius: 50%;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=179FA3&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+New+Things+%F0%9F%9A%80;Creating+Beautiful+Interfaces+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<!-- Tiêu đề -->
-<h2 align="center">Hi 👋, I'm <span style="color:#179fa3">Tran Duy Phat</span></h2>
-<h3 align="center">💻 A Developer from Vietnam 🇻🇳</h3>
+<!-- Avatar với Border Animation -->
+<p align="center">
+  <img src="https://github.com/DuyPhatpeo.png" width="150" style="border-radius: 50%;" />
+</p>
 
 ---
 
-## 📫 Connect with me
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://www.facebook.com/DinoPeo2810" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/>
-  </a>
-  <a href="https://github.com/DuyPhatpeo" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://www.youtube.com/@dinopeo2810" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube"/>
-  </a>
-  <a href="https://discord.gg/WpSaHUJJyB" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/>
-  </a>
-  <a href="mailto:phattranduy00@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/>
-  </a>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 📍 **Location:** Vietnam 🇻🇳
+- 💼 **Role:** Frontend Developer
+- 🎯 **Current Focus:** Creating pixel-perfect interfaces
+- 💖 **Passion:** UI/UX Design
+- 💻 **Code:** JavaScript, TypeScript, HTML, CSS
+- 🛠️ **Tools:** React, Next.js, TailwindCSS, Figma
+
+<br clear="right"/>
+
+---
+
+## 🔧 Technologies & Tools
+
+### 🎨 Frontend Core
+
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
+### ⚛️ Frameworks & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+### 🎨 Styling & UI
+
+<p>
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+### 🛠️ Build Tools & Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+### 🎯 Design Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyPhatpeo&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20Languages" alt="Top Languages" width="70%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DuyPhatpeo&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="70%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuyPhatpeo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=179fa3&icon_color=179fa3&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyPhatpeo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=179fa3&text_color=c9d1d9"/>
 </div>
 
 ---
 
-## 👨‍💻 Just a dev doing dev things...
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Developer at Work" width="70%" />
+  <a href="https://www.facebook.com/DinoPeo2810" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/DuyPhatpeo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@dinopeo2810" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://discord.gg/WpSaHUJJyB" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:phattranduy00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
-> ✨ _"Code hard, sleep less, debug smarter."_  
-> 🔥 _Let’s connect and build something amazing together!_
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+**⭐ From [DuyPhatpeo](https://github.com/DuyPhatpeo) with 💙**
+
+<img src="https://img.shields.io/github/stars/DuyPhatpeo?style=social" alt="GitHub Stars" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<!-- Animated Footer Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=179FA3&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Footer Typing SVG" />
+</p>
