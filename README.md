@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=179FA3&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+New+Things+%F0%9F%9A%80;Creating+Beautiful+Interfaces+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=179FA3&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;UI/UX+Enthusiast+🎨;Always+Learning+New+Things+🚀;Creating+Beautiful+Interfaces+✨" alt="Typing SVG" />
 </p>
 
 <!-- Avatar với Border Animation -->
@@ -42,7 +42,7 @@
 ### 🚀 Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🎨 Styling & Design
 
@@ -62,16 +62,6 @@
 ### 🎯 Design Tools
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuyPhatpeo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=179fa3&icon_color=179fa3&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyPhatpeo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=179fa3&text_color=c9d1d9"/>
-</div>
 
 ---
 
@@ -115,5 +105,5 @@
 
 <!-- Animated Footer Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=179FA3&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=179FA3&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻✨" alt="Footer Typing SVG" />
 </p>
