@@ -77,7 +77,7 @@
   <a href="https://www.youtube.com/@dinopeo2810" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://discord.gg/WpSaHUJJyB" target="_blank">
+  <a href="https://discord.gg/p3d7859xFF" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="mailto:phattranduy00@gmail.com" target="_blank">
