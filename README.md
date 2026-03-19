@@ -41,7 +41,3 @@ Software Engineer based in Vietnam 🇻🇳. I love creating high-performance, u
   <a href="mailto:phattranduy00@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/p3d7859xFF"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DuyPhatpeo&color=blueviolet&style=flat-square&label=VISITORS" alt="Visitors" />
-</div>
